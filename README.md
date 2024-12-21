@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 2023 Study plan:
 - Get AWS Solution Architect Associate ☁️ Certified ✅
-- Send myself to the Mars to Terraform 🪐
+- Send myself to the Mars with Terraform 🪐
 - Elevate my Python 🐍 skills to another level
 - CI/CD Security 🔐 
 - Dig into GraphQL 📦 Database
