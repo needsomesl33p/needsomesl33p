@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello there 👋
 
-2023 Study plan:
+Future plans:
 - Get AWS Solution Architect Associate ☁️ Certified ✅
 - Send myself to the Mars with Terraform 🪐
 - Elevate my Python 🐍 skills to another level
