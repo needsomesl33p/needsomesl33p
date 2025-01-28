@@ -19,6 +19,6 @@ Future plans:
 - Send myself to the Mars with Terraform 🪐
 - Elevate my Python 🐍 skills to another level
 - CI/CD Security 🔐 
-- Dig into GraphQL 📦 Database
+- Dig into GraphQL 📦
 - New languages: Rust 🦀
 - Mobile: Flutter 📱
