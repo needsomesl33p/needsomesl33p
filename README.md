@@ -21,4 +21,4 @@ Future plans:
 - CI/CD Security 🔐 
 - Dig into GraphQL 📦
 - New languages: Rust 🦀
-- Mobile: Flutter 📱
+- Mobile: React 📱
